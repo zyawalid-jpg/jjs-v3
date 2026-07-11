@@ -1707,36 +1707,3 @@ delay(5, function()
     task.wait(0.5)
     Notif:Destroy()
 end)
-
--- ═══════════════════════════════════════════════════════════════
--- CONSOLE LOG
--- ═══════════════════════════════════════════════════════════════
-
-print("╔═══════════════════════════════════════════════════════════════╗")
-print("║           JJS HUB V3 — GOD MODE EDITION                       ║")
-print("╠═══════════════════════════════════════════════════════════════╣")
-print("║  [GOJO]    Auto 0.2 Domain | Auto Kill All | Insta Kill       ║")
-print("║            Auto Purple | Auto Red | Auto Blue | Auto Limitless║")
-print("╠═══════════════════════════════════════════════════════════════╣")
-print("║  [AC]      Metatable Hook | Remote Block | Value Spoof        ║")
-print("║            Fly Bypass | State Spoof | Network Hide            ║")
-print("╠═══════════════════════════════════════════════════════════════╣")
-print("║  [COMBAT]  Auto BF | Auto BF Chain | Auto Block | Auto Parry  ║")
-print("║            Auto Counter | Auto Combo | Auto M1 Trade          ║")
-print("║            Auto Skills | Auto Domain | Auto Feint             ║")
-print("╠═══════════════════════════════════════════════════════════════╣")
-print("║  [DEFENSE] Auto Dodge | Anti Ragdoll | Auto Recover           ║")
-print("║            Infinite CE | No Cooldowns | Instant Charge        ║")
-print("╠═══════════════════════════════════════════════════════════════╣")
-print("║  [MOVE]    Speed Hack | Auto Dash | Infinite Dash | Fly       ║")
-print("║            Noclip | Click TP                                  ║")
-print("╠═══════════════════════════════════════════════════════════════╣")
-print("║  [VISUAL]  ESP | Tracers | Distance | Health | Hitbox         ║")
-print("║            Full Bright | No Fog                               ║")
-print("╠═══════════════════════════════════════════════════════════════╣")
-print("║  [MISC]    Anti AFK | Auto Click | Copy Loadstring            ║")
-print("╚═══════════════════════════════════════════════════════════════╝")
-
-═══════════════════════════════════════════════════════════════════
-END OF SCRIPT
-═══════════════════════════════════════════════════════════════════
