@@ -1,5 +1,4 @@
 
- JJS Hub V4 - Clean Working Edition
 -- Pure Lua, no decorative text
 -- Compatible: Delta, Fluxus, Codex, Krnl
 
